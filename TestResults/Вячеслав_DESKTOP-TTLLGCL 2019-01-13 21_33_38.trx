@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="75b108e4-10d9-4efa-961f-40e40cb07746" name="Вячеслав@DESKTOP-TTLLGCL 2019-01-13 21:33:38" runUser="DESKTOP-TTLLGCL\Вячеслав" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="5fdf19ff-2d5a-4ee7-932d-751de276f1a0">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Вячеслав_DESKTOP-TTLLGCL 2019-01-13 21_33_38">
+      <DeploymentItem filename="C:\Users\Вячеслав\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2019-01-13T21:33:38.7225972+03:00" queuing="2019-01-13T21:33:39.3163191+03:00" start="2019-01-13T21:33:39.3718314+03:00" finish="2019-01-13T21:33:39.7155585+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="СomputeExpression1" storage="c:\users\вячеслав\desktop\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="996ee9de-6370-d658-e339-bfcc1da43a98">
+      <Execution id="194461d0-aa0a-48da-8077-25c64ee8594b" />
+      <TestMethod codeBase="C:/Users/Вячеслав/Desktop/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.MyCalcTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="СomputeExpression1" />
+    </UnitTest>
+    <UnitTest name="СomputeExpression4" storage="c:\users\вячеслав\desktop\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="52bde4b7-23ed-98ea-788b-f885fa2ac502">
+      <Execution id="7e885620-3387-4886-b213-86ad1fa9a79e" />
+      <TestMethod codeBase="C:/Users/Вячеслав/Desktop/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.MyCalcTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="СomputeExpression4" />
+    </UnitTest>
+    <UnitTest name="СomputeExpression3" storage="c:\users\вячеслав\desktop\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="29e98558-b171-2d54-073c-27e24cf2c665">
+      <Execution id="bfad1b55-312c-4067-af7b-a780bd76e8bc" />
+      <TestMethod codeBase="C:/Users/Вячеслав/Desktop/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.MyCalcTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="СomputeExpression3" />
+    </UnitTest>
+    <UnitTest name="СomputeExpression5" storage="c:\users\вячеслав\desktop\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="9b5ca425-447b-70a6-1494-d4db37eb2808">
+      <Execution id="6869b85b-43a8-48d5-8bcb-26b3129f0083" />
+      <TestMethod codeBase="C:/Users/Вячеслав/Desktop/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.MyCalcTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="СomputeExpression5" />
+    </UnitTest>
+    <UnitTest name="СomputeExpression2" storage="c:\users\вячеслав\desktop\calculator\calculator.tests\bin\debug\calculator.tests.dll" id="88e1ab94-4547-824b-aa2a-512ff81b7a89">
+      <Execution id="91208786-5eb4-4fdb-9357-c28e5971f5d1" />
+      <TestMethod codeBase="C:/Users/Вячеслав/Desktop/Calculator/Calculator.Tests/bin/Debug/Calculator.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Calculator.Tests.MyCalcTest, Calculator.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="СomputeExpression2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="29e98558-b171-2d54-073c-27e24cf2c665" executionId="bfad1b55-312c-4067-af7b-a780bd76e8bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52bde4b7-23ed-98ea-788b-f885fa2ac502" executionId="7e885620-3387-4886-b213-86ad1fa9a79e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="88e1ab94-4547-824b-aa2a-512ff81b7a89" executionId="91208786-5eb4-4fdb-9357-c28e5971f5d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="996ee9de-6370-d658-e339-bfcc1da43a98" executionId="194461d0-aa0a-48da-8077-25c64ee8594b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b5ca425-447b-70a6-1494-d4db37eb2808" executionId="6869b85b-43a8-48d5-8bcb-26b3129f0083" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="bfad1b55-312c-4067-af7b-a780bd76e8bc" testId="29e98558-b171-2d54-073c-27e24cf2c665" testName="СomputeExpression3" computerName="DESKTOP-TTLLGCL" duration="00:00:00.0159263" startTime="2019-01-13T21:33:39.3874563+03:00" endTime="2019-01-13T21:33:39.6374517+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bfad1b55-312c-4067-af7b-a780bd76e8bc">
+    </UnitTestResult>
+    <UnitTestResult executionId="7e885620-3387-4886-b213-86ad1fa9a79e" testId="52bde4b7-23ed-98ea-788b-f885fa2ac502" testName="СomputeExpression4" computerName="DESKTOP-TTLLGCL" duration="00:00:00.0001151" startTime="2019-01-13T21:33:39.6374517+03:00" endTime="2019-01-13T21:33:39.6530695+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7e885620-3387-4886-b213-86ad1fa9a79e">
+    </UnitTestResult>
+    <UnitTestResult executionId="91208786-5eb4-4fdb-9357-c28e5971f5d1" testId="88e1ab94-4547-824b-aa2a-512ff81b7a89" testName="СomputeExpression2" computerName="DESKTOP-TTLLGCL" duration="00:00:00.0003287" startTime="2019-01-13T21:33:39.6530695+03:00" endTime="2019-01-13T21:33:39.6530695+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="91208786-5eb4-4fdb-9357-c28e5971f5d1">
+    </UnitTestResult>
+    <UnitTestResult executionId="194461d0-aa0a-48da-8077-25c64ee8594b" testId="996ee9de-6370-d658-e339-bfcc1da43a98" testName="СomputeExpression1" computerName="DESKTOP-TTLLGCL" duration="00:00:00.0001222" startTime="2019-01-13T21:33:39.6687025+03:00" endTime="2019-01-13T21:33:39.6687025+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="194461d0-aa0a-48da-8077-25c64ee8594b">
+    </UnitTestResult>
+    <UnitTestResult executionId="6869b85b-43a8-48d5-8bcb-26b3129f0083" testId="9b5ca425-447b-70a6-1494-d4db37eb2808" testName="СomputeExpression5" computerName="DESKTOP-TTLLGCL" duration="00:00:00.0001218" startTime="2019-01-13T21:33:39.6687025+03:00" endTime="2019-01-13T21:33:39.6687025+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6869b85b-43a8-48d5-8bcb-26b3129f0083">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,8 @@
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Form1.resources
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.Properties.Resources.resources
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\Вячеслав\Desktop\Calculator\Calculator\obj\x86\Release\Calculator.pdb

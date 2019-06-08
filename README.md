@@ -10,8 +10,8 @@ A little additional information for using this application:
 
 3) The algorithm taken from movie https://www.youtube.com/watch?v=Vk-tGND2bfc&t=76s
 
-![first](screenshots/1.jpg)
-![second](screenshots/2.jpg)
-![third](screenshots/3.jpg)
-![fourth](screenshots/4.jpg)
-![fifth](screenshots/5.jpg)
+![first](screenshots/1.png)
+![second](screenshots/2.png)
+![third](screenshots/3.png)
+![fourth](screenshots/4.png)
+![fifth](screenshots/5.png)

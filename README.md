@@ -8,7 +8,7 @@ A little additional information for using this application:
 
 2) sin, cos, module and other unary operations work only for 1 number in line.
 
-3) The algorithm taken from movie https://www.youtube.com/watch?v=Vk-tGND2bfc&t=76s
+3) The algorithm was taken from the video on link https://www.youtube.com/watch?v=Vk-tGND2bfc&t=76s
 
 ![first](screenshots/1.png)
 ![second](screenshots/2.png)
